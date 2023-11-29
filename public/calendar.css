@@ -1,0 +1,103 @@
+body {
+    background-image: url(../assets/images/lighted_gold_christmas_trees_seamless_wallpaper.jpg);
+}
+
+h1 {
+    color: snow;
+    text-align: center;
+}
+
+span {
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    color: chartreuse;
+}
+
+section {
+    background-image: url(../assets/images/window.gif);
+    border: solid red 8px;
+    border-radius: 8px;
+    background-size: contain;
+    width: 300px;
+    height: 450px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.date {
+    color: skyblue;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+article {
+    border: solid red 8px;
+    border-radius: 8px;
+    background-size: contain;
+    width: 300px;
+    height: 450px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+img {
+    max-width: 300px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+    display: none;
+}
+
+#hide1 {
+    margin-top: auto;
+}
+
+#show1
+{
+    margin-top: auto;
+}
+
+#christ {
+    color: snow;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+
+/* CCS spécifique à la page message*/
+#patience {
+    background-image: url(../assets/images/demain.jpeg);
+    background-size: contain;
+    margin-bottom: 15px;
+    height: 400px;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    border: solid red 8px;
+    border-radius: 8px;
+    text-align: center;
+    width: 300px;
+    background-color: green;
+}
+
+a {
+    font-size: x-large;
+    color: snow;
+    text-decoration: none;
+}
+
+#p1 {
+    margin-top: 5px;
+    margin-left: 10px;
+    text-align: left;
+    font-size: x-large;
+}
